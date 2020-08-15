@@ -1,0 +1,9 @@
+pycocotools==2.0.0
+absl-py
+pyarrow
+numpy
+imgaug
+scipy
+Pillow
+scikit-image
+matplotlib

@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# 训练数据模型权重
+test.mp4
+train/instance_segmentation.tar.gz
+model_data/train_mask_rcnn.h5
+model_data/market1501.pb
+model_data/mars-small128.pb
+model_data/mask_rcnn_coco.h5
+
 # C extensions
 *.so
 
